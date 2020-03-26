@@ -11,10 +11,14 @@ Installed Rasperin
 Works fine - with fully operational desktop env
 Setup SSH access on Pi and remote laptop 
 Using - https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6
-Using the SSH on laptop in root
-<sudo apt-get install python3-flask>
-
-
-
+Using the SSH on laptop in root type or on pi
+git init
+sudo apt-get install python3-flask
+ [already installed]
+mkdir rpiWebServer
+ - for info - a folder /home/pi/Documents/Server is created in this process
+cd rpiWebServer
+mkdir static
+mkdir templates
 
 
