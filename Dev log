@@ -2,7 +2,7 @@ Implementation log
 
 Using Python with Flask - https://www.fullstackpython.com/flask.html
 SQLite as database layer - http://raspberrywebserver.com/sql-databases/accessing-an-sqlite-database-with-python.html
-Uinsg Pyplate on Raspberry Pi as the CMS - http://raspberrywebserver.com/pyplate/install-pyplate-on-a-raspberry-pi.html
+** not sure ** Uinsg Pyplate on Raspberry Pi as the CMS - http://raspberrywebserver.com/pyplate/install-pyplate-on-a-raspberry-pi.html
 Manage code using GIT - maybe GITFLOW (We'll see)
 HW - Raspbury Pi 4 Model B (with memory upgrade)
 
@@ -10,6 +10,11 @@ HW - Raspbury Pi 4 Model B (with memory upgrade)
 Installed Rasperin
 Works fine - with fully operational desktop env
 Setup SSH access on Pi and remote laptop 
+Using - https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6
+Using the SSH on laptop in root
+<sudo apt-get install python3-flask>
+
+
 
 
 
