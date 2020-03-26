@@ -10,7 +10,7 @@ HW - Raspbury Pi 4 Model B (with memory upgrade)
 Installed Rasperin
 Works fine - with fully operational desktop env
 Setup SSH access on Pi and remote laptop 
-Using - https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6
+ref: [1] - https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6
 Using the SSH on laptop in root type or on pi
 git init
 sudo apt-get install python3-flask
@@ -20,5 +20,7 @@ mkdir rpiWebServer
 cd rpiWebServer
 mkdir static
 mkdir templates
-
+Undertook instructions in [1] - all worked
+ - - To server time / date display with CSS
+ 
 
