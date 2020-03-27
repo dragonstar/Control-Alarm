@@ -22,5 +22,21 @@ mkdir static
 mkdir templates
 Undertook instructions in [1] - all worked
  - - To server time / date display with CSS
+  - Mapped drives to macbook
+  - Installed Geany in macbook (although trouble connecting it to pi)
+  - Camera integration - standalone on wifi
+  
+  
+-----------------
+ - To do --------
+-----------------
+ push to github
+ pull to dev evn on mac
+ setup distriburted push for updates to dev & production
+ Develop control interface
+ Expose IP
+ spec breadboard for GPIO testing
+ Test control interface
+ Robin to test interface
+ ICD of control assets (Robin)
  
-
